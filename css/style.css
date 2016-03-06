@@ -1,3 +1,18 @@
 h1{
     color: aquamarine;
 }
+a{
+    text-decoration: none;
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color:#dc6fff;
+}
+a:hover{
+    color:crimson;
+}
+a:active{
+    color: darkgreen;
+}
